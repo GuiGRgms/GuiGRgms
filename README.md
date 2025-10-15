@@ -2,21 +2,19 @@ Hello! Eu sou o Guilherme
 
 💻 Desenvolvedor em formação, apaixonado por resolver problemas com código e transformar ideias em soluções funcionais.
 
-Acredito que cada linha de código é um passo rumo à inovação — e que aprender é a base para criar algo verdadeiramente útil.
-
 Sempre buscando aprimorar meus conhecimentos em desenvolvimento web, lógica de programação e boas práticas de código.
 
 Fascinado por tecnologia desde cedo, encontrei na programação uma forma de transformar curiosidade em criação.
 
 Atualmente estou focado em Java, MySQL, JavaScript, HTML e CSS, explorando também frameworks e desenvolvimento de interfaces.
 
-Meu objetivo é unir design, funcionalidade e performance para criar experiências digitais que inspirem e facilitem a vida das pessoas.
+
 
 💬 Sobre mim
-- 🔭 Foco em desenvolvimento web e POO  
-- 🌱 Sempre aprendendo novas tecnologias e boas práticas  
-- ⚙️ Atualmente estudando interfaces  
-- 💡 Gosto de trocar ideias sobre código, design e aprendizado contínuo  
+- 🔭 Foco em desenvolvimento web e programação orientada a objetos, com interesse em unir design e funcionalidade 
+- 🌱 Acredito que cada linha de código é um passo rumo à inovação — e que aprender é a base para criar algo verdadeiramente útil.
+- ⚙️ Interessado em desenvolvimento web e interfaces que unam design e funcionalidade  
+- 💡 Meu objetivo é unir design, funcionalidade e performance para criar experiências digitais que inspirem e facilitem a vida das pessoas. 
 
 🌐 Contato
 
