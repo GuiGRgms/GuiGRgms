@@ -9,3 +9,8 @@ construindo projetos práticos para aprender de forma sólida.
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas  
 - ⚙️ Atualmente estudando interfaces  
 - 💡 Gosto de trocar ideias sobre código, design e aprendizado contínuo  
+
+🌐 Contato
+📫 E-mail: guilherme2018j7@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/guilherme-alves-66211a262/
