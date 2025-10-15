@@ -1,8 +1,16 @@
-Olá! Eu sou o Guilherme
+Hello! Eu sou o Guilherme
 
-Sou apaixonado por tecnologia e desenvolvimento de software!  
-Atualmente estou aprimorando minhas habilidades em Java, MySQL,JavaScript,HTML e CSS
-construindo projetos práticos para aprender de forma sólida.
+💻 Desenvolvedor em formação, apaixonado por resolver problemas com código e transformar ideias em soluções funcionais.
+
+Acredito que cada linha de código é um passo rumo à inovação — e que aprender é a base para criar algo verdadeiramente útil.
+
+Sempre buscando aprimorar meus conhecimentos em desenvolvimento web, lógica de programação e boas práticas de código.
+
+Fascinado por tecnologia desde cedo, encontrei na programação uma forma de transformar curiosidade em criação.
+
+Atualmente estou focado em Java, MySQL, JavaScript, HTML e CSS, explorando também frameworks e desenvolvimento de interfaces.
+
+Meu objetivo é unir design, funcionalidade e performance para criar experiências digitais que inspirem e facilitem a vida das pessoas.
 
 💬 Sobre mim
 - 🔭 Foco em desenvolvimento web e POO  
@@ -11,6 +19,7 @@ construindo projetos práticos para aprender de forma sólida.
 - 💡 Gosto de trocar ideias sobre código, design e aprendizado contínuo  
 
 🌐 Contato
+
 📫 E-mail: guilherme2018j7@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-alves-66211a262/
