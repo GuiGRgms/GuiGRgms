@@ -1,4 +1,5 @@
 Hello! Eu sou o Guilherme
+________________________________________________________________________________________________
 
 💻 Desenvolvedor em formação, apaixonado por resolver problemas com código e transformar ideias em soluções funcionais.
 
@@ -8,6 +9,7 @@ Fascinado por tecnologia desde cedo, encontrei na programação uma forma de tra
 
 Atualmente estou focado em Java, MySQL, JavaScript, HTML e CSS, explorando também frameworks e desenvolvimento de interfaces.
 
+________________________________________________________________________________________________
 
 
 💬 Sobre mim
@@ -15,6 +17,7 @@ Atualmente estou focado em Java, MySQL, JavaScript, HTML e CSS, explorando tamb�
 - 🌱 Acredito que cada linha de código é um passo rumo à inovação — e que aprender é a base para criar algo verdadeiramente útil.
 - ⚙️ Interessado em desenvolvimento web e interfaces que unam design e funcionalidade  
 - 💡 Meu objetivo é unir design, funcionalidade e performance para criar experiências digitais que inspirem e facilitem a vida das pessoas. 
+________________________________________________________________________________________________
 
 🌐 Contato
 
@@ -23,6 +26,7 @@ Atualmente estou focado em Java, MySQL, JavaScript, HTML e CSS, explorando tamb�
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-alves-66211a262/
 
 🚀 Tecnologias que estou aprendendo
+________________________________________________________________________________________________
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
