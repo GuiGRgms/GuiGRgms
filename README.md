@@ -37,5 +37,8 @@ ________________________________________________________________________________
 
 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiGRgms&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGRgms&layout=compact&theme=radical)
+## 📊 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiGRgms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGRgms&layout=compact&theme=tokyonight)
