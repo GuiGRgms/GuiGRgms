@@ -37,12 +37,6 @@ ________________________________________________________________________________
 
 📊 Estatísticas
 
-## 📊 Estatísticas
-
-## 📊 Estatísticas
-
-## 📊 Estatísticas
-
 ![Resumo do GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GuiGRgms&show_icons=true&theme=tokyonight)
 
 ![Sua sequência de commits](https://github-readme-streak-stats.herokuapp.com/?user=GuiGRgms&theme=tokyonight)
