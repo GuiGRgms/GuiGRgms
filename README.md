@@ -39,6 +39,10 @@ ________________________________________________________________________________
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiGRgms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+## 📊 Estatísticas
 
-![Principais Idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGRgms&layout=compact&theme=tokyonight)
+## 📊 Estatísticas
+
+![Resumo do GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GuiGRgms&show_icons=true&theme=tokyonight)
+
+![Sua sequência de commits](https://github-readme-streak-stats.herokuapp.com/?user=GuiGRgms&theme=tokyonight)
