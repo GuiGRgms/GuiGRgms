@@ -33,12 +33,13 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-📊 Estatísticas
+## 📊 Estatísticas e Atividade
 
-## 📊 Estatísticas
-
-![Status do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=GuiGRgms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=GuiGRgms&theme=react-dark&bg_color=0d1117&hide_border=true)
 
 ![Sua sequência de commits](https://github-readme-streak-stats.herokuapp.com/?user=GuiGRgms&theme=tokyonight)
+
+![Status do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=GuiGRgms&show_icons=true&theme=tokyonight&layout=compact)
