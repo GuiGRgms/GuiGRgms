@@ -42,5 +42,3 @@ ________________________________________________________________________________
 ![Status do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=GuiGRgms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Sua sequência de commits](https://github-readme-streak-stats.herokuapp.com/?user=GuiGRgms&theme=tokyonight)
-
-![Sua sequência de commits](https://github-readme-streak-stats.herokuapp.com/?user=GuiGRgms&theme=tokyonight)
