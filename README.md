@@ -35,11 +35,3 @@ ________________________________________________________________________________
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-## 📊 Estatísticas e Atividade
-
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=GuiGRgms&theme=react-dark&bg_color=0d1117&hide_border=true)
-
-![Sua sequência de commits](https://github-readme-streak-stats.herokuapp.com/?user=GuiGRgms&theme=tokyonight)
-
-![Status do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=GuiGRgms&show_icons=true&theme=tokyonight&layout=compact)
